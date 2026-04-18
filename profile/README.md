@@ -1,1 +1,1 @@
-![S7 Banner](assets/S7.png)
+![X](S7.png)
